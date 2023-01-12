@@ -9,16 +9,15 @@ Eu sou um estudante apaixonado por tecnologia e ansioso por começar minha carre
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img align="right" alt="me-pic" height="150" style="border-radius:150px;" src="https://avatars.githubusercontent.com/u/119719373?v=4">
-</div>  
-  ##
-<div>  
-  <a href = "mailto:blackbargsgofsr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+ 
+  <a href = "mailto:blackgsgofsr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/blackbar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- I'm [Francys](https://www.linkedin.com/in/blackbar/?locale=en_US)
+I'm [Francys](https://www.linkedin.com/in/blackbar/?locale=en_US)
  
- Passionate candidate about technology and C# .NET programming, seeking an opportunity to acquire practical experience and contribute to a company's success. With a strong ability to learn and problem-solve, I am ready to tackle challenges and acquire new skills.
+Passionate candidate about technology and C# .NET programming, seeking an opportunity to acquire practical experience and contribute to a company's success. With a strong ability to learn and problem-solve, I am ready to tackle challenges and acquire new skills.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
