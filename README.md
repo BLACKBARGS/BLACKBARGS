@@ -2,7 +2,6 @@ Eu sou um estudante apaixonado por tecnologia e ansioso por começar minha carre
 
 <div>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:150px;" src="https://avatars.githubusercontent.com/u/119719373?v=4">
 </div>
   
