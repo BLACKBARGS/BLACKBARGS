@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @BLACKBARGS
-- 👀 I’m interested in C#, .NET ...
-- 🌱 I’m currently learning .NET ...
+Eu sou um estudante apaixonado por tecnologia e ansioso por começar minha carreira em desenvolvimento de software. Embora eu ainda não tenha experiência profissional, estou estudando e me capacitando em C# e .NET, ferramentas essenciais para desenvolvimento de software. Estou sempre procurando novas oportunidades para adquirir experiência prática e desenvolver minhas habilidades. Acredito que minha paixão pela tecnologia, determinação e capacidade de aprender rapidamente me tornam um ótimo candidato para uma carreira em desenvolvimento de software.
 
-
-##
-<div align="left">
-  <a href="https://github.com/BLACKBARGS">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BLACKBARGS&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
-      <div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:150px;" src="https://avatars.githubusercontent.com/u/119719373?v=4">
