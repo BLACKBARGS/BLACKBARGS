@@ -13,19 +13,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - Any freelance work? do reach, [email](mailto:blackgsgofsr@gmail.com) :)
 
-Tools that I have knowledge of:
-
->
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"></code>
-
-If you want, why not? 🥺👉👈
-
+- If you want, why not? 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/blackgsgofz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
