@@ -9,11 +9,3 @@ I'm [Francys Saldanha Rodrigues](https://www.linkedin.com/in/blackbar/?locale=en
 Passionate candidate about technology and C# .NET programming, seeking an opportunity to acquire practical experience and contribute to a company's success. With a strong ability to learn and problem-solve, I am ready to tackle challenges and acquire new skills.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-- Any freelance work? do reach, [email](mailto:blackgsgofsr@gmail.com) :)
-
-- If you want, why not? 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/blackgsgofz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
