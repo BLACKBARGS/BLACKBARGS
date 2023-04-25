@@ -1,13 +1,28 @@
-Olá me chamo [Francys Saldanha Rodrigues](https://www.linkedin.com/in/blackbar/)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F3F6E&height=120&section=header"/>
+</a>
 
-Eu sou um estudante apaixonado por tecnologia e ansioso por começar minha carreira em desenvolvimento de software. Embora eu ainda não tenha experiência profissional, estou estudando e me capacitando em C# e .NET, ferramentas essenciais para desenvolvimento de software. Estou sempre procurando novas oportunidades para adquirir experiência prática e desenvolver minhas habilidades. Acredito que minha paixão pela tecnologia, determinação e capacidade de aprender rapidamente me tornam um ótimo candidato para uma carreira em desenvolvimento de software
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Francys+Saldanha+Rodrigues;I'm+from+Brazil;I'm+a+BACKEND+DEVELOPER;Be+Welcome!+ツ)
 
---------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BLACKBARGS&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKBARGS&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+</div> 
+   
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/blackbar/"><img title="linkedin.com/in/blackbar/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</div>
 
-I'm [Francys Saldanha Rodrigues](https://www.linkedin.com/in/blackbar/?locale=en_US)
- 
-Passionate candidate about technology and C# .NET programming, seeking an opportunity to acquire practical experience and contribute to a company's success. With a strong ability to learn and problem-solve, I am ready to tackle challenges and acquire new skills.
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F3F6E&height=120&section=footer"/>
+</a>
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-- Any freelance work? do reach, [email](mailto:blackgsgofsr@gmail.com)
+![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
