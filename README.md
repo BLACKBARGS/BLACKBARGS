@@ -13,8 +13,6 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKBARGS&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
-   
-<div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/blackbar/"><img title="linkedin.com/in/blackbar/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -24,5 +22,3 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F3F6E&height=120&section=footer"/>
 </a>
-
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
