@@ -3,11 +3,10 @@
 </a>
 <div align="center">
   <br>
-  <h1>Hi, I'm Francys Saldanha Rodrigues 👋</h1>
-  <h3>I'm a Backend Developer from Brazil. Welcome to my profile! ツ</h3>
+  <h2>Francys Saldanha Rodrigues</h2>
+  <h4>Backend Developer from Brazil</h4>
   <br>
   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BLACKBARGS&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKBARGS&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/blackbar/">
