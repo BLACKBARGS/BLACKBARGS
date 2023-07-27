@@ -8,10 +8,10 @@
 </div>
 <div align="center">
  <p> BLACKBARGS? </p> 
-?? Desenvolvimento de Sistemas <br>
-?? Meu foco principal: Backend <br>
-?? Pergunte-me sobre qualquer coisa, adoro ajudar pessoas <br>
-? Tecnologias em andamento: React, Java, Python, em foco (.NET, ASP.NET, C#).
+Desenvolvimento de Sistemas <br>
+Meu foco principal: Backend <br>
+Pergunte-me sobre qualquer coisa, adoro ajudar pessoas <br>
+Tecnologias em andamento: React, Java, Python, em foco (.NET, ASP.NET, C#).
 </div>
 
 
@@ -23,6 +23,5 @@
 <a href="https://www.linkedin.com/in/blackbar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- <img src="https://github.com/srtonn/srtonn/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating commits">
 
 
