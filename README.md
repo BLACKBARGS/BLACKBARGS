@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKBARGS&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <div align="center">
- <p> BLACKBARGS? </p> 
+ <p> BLACKBARGS </p> 
 Desenvolvimento de Sistemas <br>
 Meu foco principal: Backend <br>
 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas <br>
