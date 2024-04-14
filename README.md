@@ -7,13 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKBARGS&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <div align="center">
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@BLACKBARGS/30-nites-of-code)  
+  ![@BLACKBARGS #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BLACKBARGS)
   
  <p> BLACKBARGS </p> 
 
- ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@blackgsgofsr54367/30-nites-of-code)  
-  ![@blackgsgofsr54367 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=blackgsgofsr54367)
-  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BLACKBARGS&bg_color=FF00FFcolor=8A2BE2&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>CONTATO</p>
