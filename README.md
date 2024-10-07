@@ -6,12 +6,15 @@
     </a>
 </div>
 
-<div align="center">  
-    <a href="mailto:blackgsgofsr@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<div align="center">
+    <a href="https://learn.microsoft.com/en-us/users/me/achievements?source=docs&tab=tab-modules#badges-section" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Badge"/>
+    </a>
+    <a href="mailto:blackgsgofsr@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
     </a>
     <a href="https://www.linkedin.com/in/blackbar/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn Badge">
     </a>
 </div>
 
