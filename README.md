@@ -1,18 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francys Saldanha Rodrigues
-==================================================================================================================================================
+# [ SYSTEM_INIT ] Francys Saldanha Rodrigues
 
-Software Engineer
------------------
+### ⚡ Software Engineer | .NET Backend | AI Integrator
+> STATUS: Building scalable, secure, and logic-driven neural architectures.
 
-👋 Hey there! I'm a Software Engineer in training — but already knee-deep in real development. Since I started my journey, I've been building projects that focus on clean architecture, logic-driven structure, and secure, scalable systems that solve real problems. 💻 One of my main projects is EmployeeSystem, a full-featured employee management system. I’ve implemented secure JWT authentication with refresh tokens, role-based access control (admin/user), and built a clean user registration and update flow. The system is designed with Blazor and .NET at its core, and I'm always working on making it more modular and maintainable. 🔐 I'm particularly careful with access logic — for example, making sure users can't escalate their privileges or manipulate roles without proper permissions. I use HTTP context to enforce strict security rules, and I’ve designed the repository pattern to clearly distinguish between admin and normal users. 🧠 My code style emphasizes simplicity and organization. I believe naming, structure, and clear logic are what make a system reliable in the long term. When I refactor code, I avoid unnecessary renaming just to “clean up” — I prefer meaningful improvements that don’t break what’s already working. 🛠️ My stack includes C#, .NET, Blazor, Entity Framework, SQL (MySQL, SQLite, Oracle), and Git. I'm also experienced with containerization (Docker), cloud tools (Azure), and recently started diving into machine learning to explore how AI can help communities — like analyzing weather data to predict future flood risks. 📚 I'm constantly learning, with courses like Harvard’s CS50x and CS50AI under my belt, and certifications in cybersecurity and AI engineering. I’m the type who doesn’t just want to watch change happen — I want to be part of it. Let’s build something meaningful.
+---
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [blackgsgofsr@gmail.com](mailto:blackgsgofsr@gmail.com)
-* 🧠  I'm learning Machine Learning and a lot of more stuff 
-* 🤝  I'm open to collaborating on Anythink
+### 🛠️ technical_profile
+Advanced Software Engineer specialized in the **.NET ecosystem** and **Backend Engineering**. Focused on developing robust systems through clean architecture, security-first protocols, and AI-driven data analysis.
 
-<a href="https://www.github.com/BLACKBARGS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BLACKBARGS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
+### 📟 stack_v2.0
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/BLACKBARGS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/blackbar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+### 🔧 technical_skills_matrix
+
+#### [ CATEGORY: BACKEND_ARCHITECTURE ]
+* **Microsoft .NET & C#**
+  * `SKILLS:` ASP.NET_Core, Entity_Framework_Core, LINQ, Dependency_Injection, Multithreading, Clean_Architecture.
+* **Web Interfaces (Blazor)**
+  * `SKILLS:` Blazor_WebAssembly, Component_Lifecycle, State_Management, JS_Interop, SignalR_Realtime.
+
+#### [ CATEGORY: AI & DATA_ENGINEERING ]
+* **AI & Machine Learning** (Harvard/DataCamp Certified)
+  * `SKILLS:` LLM_Integration, Prompt_Engineering, Neural_Networks, NLP, Vector_Databases, RAG_Architectures.
+* **Python Implementation**
+  * `SKILLS:` Advanced_OOP, Data_Analysis, Scripting_Automation, Functional_Logic, NumPy_Pandas.
+
+#### [ CATEGORY: INFRA & CYBER_SEC ]
+* **Database & Storage (SQL Server)**
+  * `SKILLS:` Relational_Modeling, T-SQL, Index_Optimization, Stored_Procedures, ACID_Compliance.
+* **DevOps & Security (Cisco Certified)**
+  * `SKILLS:` Docker_Containerization, Microservices, Endpoint_Security, Threat_Mitigation, Network_Troubleshooting.
+
+---
+
+### 📜 certified_protocols (click_to_verify)
+
+#### [ CATEGORY: AI & MACHINE_LEARNING ]
+* [![DataCamp](https://img.shields.io/badge/DataCamp-AI_Engineer_Associate-05192D?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AEDS0012510397165)
+* [![Harvard CS50AI](https://img.shields.io/badge/Harvard_CS50AI-Artificial_Intelligence-A51C30?style=flat-square&logo=harvard&logoColor=white)](https://certificates.cs50.io/9a678029-229f-4085-8302-f1dd785ca7bc.pdf?size=letter)
+
+#### [ CATEGORY: CORE_CS & PYTHON ]
+* [![Harvard CS50x](https://img.shields.io/badge/Harvard_CS50x-Computer_Science-A51C30?style=flat-square&logo=harvard&logoColor=white)](https://certificates.cs50.io/91e0db4a-ac2a-40c8-a32a-091470ab25eb.pdf?size=letter)
+* [![Codédex](https://img.shields.io/badge/Codédex-Legend_of_Python-black?style=flat-square&logo=python&logoColor=yellow)](https://www.codedex.io/certificates/da433039-858d-4278-a6ef-e870fc25989b)
+
+#### [ CATEGORY: NETWORK & CYBER_SEC ]
+* [![Cisco Sec](https://img.shields.io/badge/Cisco-Endpoint_Security-049fd9?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/243c455b-0836-481b-b5f8-c9de32d950fb/linked_in_profile)
+* [![Cisco Net](https://img.shields.io/badge/Cisco-Networking_Basics-049fd9?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/f6e3c914-8bcd-4c27-b5cf-51362a30727e/linked_in_profile)
+* [![Cisco Eng](https://img.shields.io/badge/Cisco-English_for_IT-049fd9?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/660d9680-248f-4ef3-9902-41ffd608ebee/linked_in_profile)
+
+---
+
+### 📡 contact_endpoint
+
+<div align="left">
+  <a href="mailto:blackgsgofsr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/blackbar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
