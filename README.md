@@ -48,6 +48,40 @@ Results-driven Software Engineer specialized in the **.NET ecosystem** and **Bac
 
 ---
 
+### 📂 Engineering & Research Portfolio
+
+#### 🤖 [Roblox AI Controller](https://github.com/BLACKBARGS/ai-training-for-roblox)
+**Autonomous agent training using Reinforcement Learning in 3D environments.**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
+* **Key Achievement:** Implementation of **PPO (Proximal Policy Optimization)** using **Raycasting** sensors for low-latency inference and closed-loop control.
+
+#### 🏢 [Employee System](https://github.com/BLACKBARGS/EmployeeSystem)
+**Enterprise-grade Backend Architecture and Resource Management.**
+* ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+* **Key Achievement:** Rigid application of **Clean Architecture**, **SOLID** principles, and **Entity Framework Core** for high-scalability systems.
+
+#### 🎮 [F1 Telemetry](https://github.com/BLACKBARGS/f1-telemetry)
+**Real-time data stream processing and visualization.**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+* **Key Achievement:** Real-time telemetry processing focused on performance analysis and hardware-level insight extraction.
+
+#### 🎲 [Game Theory Simulation](https://github.com/BLACKBARGS/teoria-dos-jogos)
+**Strategic decision-making and resilience simulation models.**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+* **Key Achievement:** Mathematical modeling of competitive strategies and equilibrium analysis in distributed systems.
+
+#### ☁️ [Open-Clima](https://github.com/BLACKBARGS/Open-Clima)
+**High-availability Weather Data Service & API Integration.**
+* ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+* **Key Achievement:** Robust external service consumption featuring resilience patterns and exception handling in distributed architectures.
+
+#### 🏆 [HackerRank Solutions](https://github.com/BLACKBARGS/HackerRank)
+**Advanced Algorithms & Problem Solving Data Structures.**
+* ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Key Achievement:** Solving high-complexity challenges focused on asymptotic efficiency ($O(n \log n)$) and memory optimization.
+
+---
+
 ### 🚀 Initialize Connection
 
 <div align="center">
